@@ -1,0 +1,12 @@
+.ipynb_checkpoints/
+consignes/
+data/
+*.ft
+functions/.ipynb_checkpoints/
+functions/__pycache__/
+plots
+p5_misc.ipynb
+Clustering.ipynb
+
+
+
